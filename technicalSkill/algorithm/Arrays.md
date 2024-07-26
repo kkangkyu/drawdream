@@ -24,7 +24,21 @@ Algorithms & Data Structures for Beginners - NeetCode
 | Insert Middle            |       O(n) | 
 | Remove Middle            |       O(n) | 
 
-
 ## Dynamic Arrays
+    - python --> myArr = []
+    - Java --> List<Integer> myArr = new ArrayList<Integer>();
+    - Offerated System
+    - increase system --> alocate system : O(n)
+    - Amortized Time Complexity = O(1)
+    - Warst Case Time Complexity = O(n)
+    - size 8 Array -> 15 <= 2 * 8 
+        - This means O(2 * n) = O(n)
 
 ## Stacks
+| Operation     | Big-O Time |
+|:--------------|-----------:|
+| Push          |       O(1) |
+| Pop           |       O(1) |
+| Peek / Top    |       O(1) | 
+
+    - LIFO - Last In First Out
