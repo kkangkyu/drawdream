@@ -7,11 +7,11 @@ Java Basic Interview Questions
       systems.
     - The only condition to run that byte code is for the machine to have a runtime environment (JRE) installed in it
 
-    kyuSun : The Java 
+    kyu sun's Saying: The Java 
 
 ## 2. Why is Java not a pure object-oriented language?
 
     - Java supports primitive data types - byte, boolean, char, short, int, float, long, and double and hence it is not 
       a pure object oriented language.
 
-    kyuSun :
+    kyu sun's saying :
