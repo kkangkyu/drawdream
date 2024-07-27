@@ -7,7 +7,7 @@ Java Basic Interview Questions
       systems.
     - The only condition to run that byte code is for the machine to have a runtime environment (JRE) installed in it
 
-    kyu sun's Saying: The Java 
+    kyu sun's saying: The Java 
 
 ## 2. Why is Java not a pure object-oriented language?
 
